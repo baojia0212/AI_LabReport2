@@ -41,7 +41,11 @@ The Genetic Algorithm is built to follow five fixed rules:
 - **Convergence Graph & CSV Export:** View a clean Matplotlib convergence chart and download the generation-by-generation fitness data as a `.csv` file.
 
 ---
+## Example Output
+<img width="1093" height="828" alt="image" src="https://github.com/user-attachments/assets/74f9adc2-1a52-47e0-8597-68692e96dd5d" />
 
+
+---
 ## How to Run This Project Locally
 
 ### 1. Clone the repository
