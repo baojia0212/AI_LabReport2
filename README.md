@@ -9,8 +9,7 @@ This project is a Python web application built with **Streamlit**. It uses a **G
 ---
 
 ## Live Demo
-- **Try to run Streamlit Web App here:** [(https://ai-labreport2-genetic-algorithm.streamlit.app/)]
-
+- **Try to run Streamlit Web App here:** https://ai-labreport2-genetic-algorithm.streamlit.app/
 ---
 
 ## Problem Conditions 
